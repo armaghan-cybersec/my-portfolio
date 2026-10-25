@@ -1,4 +1,4 @@
-# M Armaghan Arshad — Cyber Security Portfolio
+ # M Armaghan Arshad — Cyber Security Portfolio
 
 A lightweight, responsive, recruiter-focused portfolio for **M Armaghan Arshad**, a BS Cyber Security student at the University of Haripur. It is intentionally built with semantic HTML, modern CSS, and vanilla JavaScript so it can be understood, edited, and hosted free on GitHub Pages.
 
